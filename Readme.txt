@@ -11,3 +11,4 @@ def Tuchapski:
 	for i in range len(x):
 		print(xi)
 		Y = x ** 2
+y  += 1
